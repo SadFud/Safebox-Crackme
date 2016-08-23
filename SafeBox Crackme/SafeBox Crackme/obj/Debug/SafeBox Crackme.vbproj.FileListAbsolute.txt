@@ -1,0 +1,11 @@
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\bin\Debug\SafeBox Crackme.exe.config
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\bin\Debug\SafeBox Crackme.exe
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\bin\Debug\SafeBox Crackme.pdb
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\bin\Debug\SafeBox Crackme.xml
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\obj\Debug\SafeBox Crackme.vbprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\obj\Debug\SafeBox_Crackme.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\obj\Debug\SafeBox_Crackme.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\obj\Debug\SafeBox Crackme.vbproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\obj\Debug\SafeBox Crackme.exe
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\obj\Debug\SafeBox Crackme.xml
+c:\users\david\documents\visual studio 2015\Projects\SafeBox Crackme\SafeBox Crackme\obj\Debug\SafeBox Crackme.pdb
